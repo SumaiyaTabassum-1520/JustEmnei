@@ -1,3 +1,1 @@
-this is java file
-Student project
-# JustEmnei
+This is an Object-Oriented (Encapsulation, Polymorphisim,Inheritance) based exception handling University Student Information project using JAVA programming language. The information about courses, faculties and students of a university is managed in this project. 
